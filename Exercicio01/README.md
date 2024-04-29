@@ -53,7 +53,15 @@ Você pode testar o endpoint com dados de teste. Basta enviar uma solicitação 
     "Quartos": 3,
     "Banheiros": 3,
     "Vagas": 2,
-    "Ano de Construção": 2000,
-    "Preço": 450000
- 
+    "Ano de Construção": 2015,
+    "Preço": 1400000
+   {
+    "ID": 3,
+    "Localização": "Zona Oeste",
+    "Área": 158,
+    "Quartos": 4,
+    "Banheiros": 3,
+    "Vagas": 2,
+    "Ano de Construção": 2012,
+    "Preço": 1700000
  ]
