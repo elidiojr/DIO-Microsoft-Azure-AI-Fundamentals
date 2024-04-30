@@ -21,7 +21,7 @@ O projeto está organizado da seguinte maneira:
 
 Através do reconhecimento facial, identificamos que:
 
-- A precisão do reconhecimento é altamente dependente da qualidade e clareza das imagens.
+- A precisão do reconhecimento é  altamente dependente da qualidade e clareza das imagens.
 - O Azure ML pode ser utilizado para detectar emoções, estimar idade e identificar outras características faciais.
 
 ## Possibilidades com Azure ML
