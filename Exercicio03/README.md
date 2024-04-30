@@ -1,4 +1,4 @@
-# Análise de Sentimentos - O Sabor da Terra
+# Análise de Sentimentos - Sabor da Terra
 
 Este projeto é parte do curso Microsoft Azure AI Fundamentals da DIO, focado na utilização do Language Studio no Azure AI para análise de sentimentos.
 
@@ -19,8 +19,8 @@ O projeto está organizado da seguinte forma:
 
 A análise de sentimentos revelou que:
 
-- A maioria dos comentários sobre o restaurante 'O Sabor da Terra' é positiva, destacando a qualidade da comida e o atendimento.
-- Alguns comentários negativos apontam para áreas de melhoria, como tempo de espera e acessibilidade.
+- A maioria dos comentários sobre o restaurante 'Sabor da Terra' é positiva, destacando a qualidade da comida e o atendimento.
+- Alguns comentários negativos apontam para áreas de melhoria, como tempo de espera e acustica do ambiente.
 
 ## Possibilidades com Azure AI
 
