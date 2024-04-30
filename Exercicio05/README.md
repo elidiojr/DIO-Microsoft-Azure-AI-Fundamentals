@@ -19,7 +19,7 @@ O projeto está organizado da seguinte maneira:
 
 ## Resultados e Insights
 
-Através do processamento de IA, identificamos que:
+Através do processamento de IA,  identificamos que:
 
 - A qualidade dos dados gerados é diretamente influenciada pela qualidade das imagens de entrada.
 - As ferramentas de IA generativa podem ser utilizadas para criar descrições detalhadas e reconhecimento de elementos nas imagens.
